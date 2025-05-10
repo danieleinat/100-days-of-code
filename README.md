@@ -1,32 +1,54 @@
-# 100 Days of Code
+# 💯 #100DaysOfCode Challenge – My Journey
 
-Welcome to my 100 Days of Code journey! This repository documents my daily progress, thoughts, and code from the challenge.
+Welcome to my personal journey through the **#100DaysOfCode** challenge!  
+This repository is where I’ll track my daily progress, share what I’m learning, and reflect on the experience.
 
-## 📅 Start Date
-May 9, 2025
+---
 
-## 🎯 Goals
-- Improve my front-end and back-end development skills
-- Build real-world projects
-- Practice daily coding discipline
+## 📅 What is #100DaysOfCode?
+
+The #100DaysOfCode challenge is a commitment to code for at least **1 hour a day for 100 days**.  
+The goal is to build consistency, develop real-world skills, and document your journey as you grow.
+
+---
 
 ## 📘 Log
-All daily updates can be found in [log.md](log.md).
 
-## 📁 Structure
+You can find my daily progress here:
 
-100-days-of-code/
-│
-├── log.md
-├── README.md
-├── Day01/
-│ ├── notes.md
-│ └── project files...
-├── Day02/
-│ ├── notes.md
-│ └── project files...
-...
+📄 [View Full Log →](log.md)
 
-## 🔗 Resources
-- [100DaysOfCode Official Site](https://www.100daysofcode.com/)
-- [#100DaysOfCode on Twitter](https://twitter.com/hashtag/100DaysOfCode)
+---
+
+## 🔧 Tools & Resources I'm Using
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [GitHub](https://github.com/)
+- Markdown for documentation
+- VS Code for editing
+
+---
+
+## 🧠 Why I'm Doing This
+
+I want to build strong foundations in web development, stay consistent, and track my growth over time.  
+By the end of 100 days, I hope to have created a portfolio of projects and learned modern developer tools.
+
+---
+
+## 🏁 Goals
+
+- Learn HTML, CSS, and JavaScript
+- Build real, functioning web projects
+- Understand Git and GitHub
+- Create a personal developer workflow
+- Stay consistent and accountable
+
+---
+
+## 📌 Connect
+
+Feel free to follow my journey, leave suggestions, or reach out!  
+Let’s grow together 💻✨
+
